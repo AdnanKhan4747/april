@@ -1,0 +1,5 @@
+C:\Users\adnan\PycharmProjects\pythonProject41\Scripts\python.exe C:\Users\adnan\PycharmProjects\pythonProject1\pythonProject41\d.py 
+Number of letters: 10
+Number of numbers: 3
+
+Process finished with exit code 0
